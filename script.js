@@ -27,4 +27,5 @@ else if(rice<=myBudgut&& dal < myBudgut){
 }
 
 
+
   
