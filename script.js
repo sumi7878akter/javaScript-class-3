@@ -1,7 +1,7 @@
 
 
 var mach = 60;
-var good rice =true
+var goodrice =true
 var rice = 20;
 var dal =10;
 var myBudgut=30
@@ -21,5 +21,10 @@ if(' good rice == false'){
     console.log('tur kopale vat mach diya vat khabo');
 }
 
-else if(rice<=myBudgut&&
-    console.log(rice and dal,  ))
+else if(rice<=myBudgut&& dal < myBudgut){
+
+    console.log('rice and dal, diya vat khabo')
+}
+
+
+  
